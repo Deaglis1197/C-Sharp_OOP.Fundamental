@@ -8,7 +8,7 @@ Inheritance is called the ability of existing a class to depend on another class
 ##Inheritance Types:
 -Single Inheritance:
 In single Inheritance, subclass inherit only one superclass.
-</br><img src="https://github.com/Deaglis1197/C-Sharp_OOP.Fundamental/blob/main/Inheritance/diagrams/singleinheritance.png" width="256"/></br>
+</br><p align="center"><img src="https://github.com/Deaglis1197/C-Sharp_OOP.Fundamental/blob/main/Inheritance/diagrams/singleinheritance.png" width="256"/></p></br>
 -Hierarchical Inheritance:
 In hierarchical Inheritance, superclass inherit to one or more subclass.
 </br><p align="center"><img src="https://github.com/Deaglis1197/C-Sharp_OOP.Fundamental/blob/main/Inheritance/diagrams/hierarchicalheritance.png" width="256" /></p></br>
