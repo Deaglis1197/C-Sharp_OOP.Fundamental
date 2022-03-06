@@ -1,0 +1,16 @@
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\bin\Debug\net5.0\Inheritance.exe
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\bin\Debug\net5.0\Inheritance.deps.json
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.json
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\bin\Debug\net5.0\Inheritance.runtimeconfig.dev.json
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\bin\Debug\net5.0\Inheritance.dll
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\bin\Debug\net5.0\ref\Inheritance.dll
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\bin\Debug\net5.0\Inheritance.pdb
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\obj\Debug\net5.0\Inheritance.csproj.AssemblyReference.cache
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\obj\Debug\net5.0\Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfoInputs.cache
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\obj\Debug\net5.0\Inheritance.AssemblyInfo.cs
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\obj\Debug\net5.0\Inheritance.csproj.CoreCompileInputs.cache
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\obj\Debug\net5.0\Inheritance.dll
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\obj\Debug\net5.0\ref\Inheritance.dll
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\obj\Debug\net5.0\Inheritance.pdb
+D:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\obj\Debug\net5.0\Inheritance.genruntimeconfig.cache
