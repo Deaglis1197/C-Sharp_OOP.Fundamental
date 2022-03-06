@@ -8,10 +8,10 @@ Inheritance is called the ability of existing a class to depend on another class
 ##Inheritance Types:
 -Single Inheritance:
 In single Inheritance, subclass inherit only one superclass.
-<img src="https://github.com/Deaglis1197/C-Sharp_OOP.Fundamental/blob/main/Inheritance/diagrams/singleinheritance.png" width="256"/></br>
+</br><img src="https://github.com/Deaglis1197/C-Sharp_OOP.Fundamental/blob/main/Inheritance/diagrams/singleinheritance.png" width="256"/></br>
 -Hierarchical Inheritance:
 In hierarchical Inheritance, superclass inherit to one or more subclass.
-<img src="https://github.com/Deaglis1197/C-Sharp_OOP.Fundamental/blob/main/Inheritance/diagrams/hierarchicalheritance.png" width="256"/></br>
+</br><img src="https://github.com/Deaglis1197/C-Sharp_OOP.Fundamental/blob/main/Inheritance/diagrams/hierarchicalheritance.png" width="256"/></br>
 -Another Inheritance:
 Another programing language you can create multiple superclass or subclass, unfortunately this is not defined in C#
 
