@@ -11,7 +11,7 @@ In single Inheritance, subclass inherit only one superclass.
 </br><img src="https://github.com/Deaglis1197/C-Sharp_OOP.Fundamental/blob/main/Inheritance/diagrams/singleinheritance.png" width="256"/></br>
 -Hierarchical Inheritance:
 In hierarchical Inheritance, superclass inherit to one or more subclass.
-</br><img src="https://github.com/Deaglis1197/C-Sharp_OOP.Fundamental/blob/main/Inheritance/diagrams/hierarchicalheritance.png" width="256"/></br>
+</br><img src="https://github.com/Deaglis1197/C-Sharp_OOP.Fundamental/blob/main/Inheritance/diagrams/hierarchicalheritance.png" width="256" style="margin: auto;"/></br>
 -Another Inheritance:
 Another programing language you can create multiple superclass or subclass, unfortunately this is not defined in C#
 
