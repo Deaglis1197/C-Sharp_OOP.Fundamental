@@ -1,0 +1,16 @@
+D:\OOP\Encapsulation\bin\Debug\net5.0\Encapsulation.exe
+D:\OOP\Encapsulation\bin\Debug\net5.0\Encapsulation.deps.json
+D:\OOP\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.json
+D:\OOP\Encapsulation\bin\Debug\net5.0\Encapsulation.runtimeconfig.dev.json
+D:\OOP\Encapsulation\bin\Debug\net5.0\Encapsulation.dll
+D:\OOP\Encapsulation\bin\Debug\net5.0\ref\Encapsulation.dll
+D:\OOP\Encapsulation\bin\Debug\net5.0\Encapsulation.pdb
+D:\OOP\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.AssemblyReference.cache
+D:\OOP\Encapsulation\obj\Debug\net5.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\OOP\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfoInputs.cache
+D:\OOP\Encapsulation\obj\Debug\net5.0\Encapsulation.AssemblyInfo.cs
+D:\OOP\Encapsulation\obj\Debug\net5.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\OOP\Encapsulation\obj\Debug\net5.0\Encapsulation.dll
+D:\OOP\Encapsulation\obj\Debug\net5.0\ref\Encapsulation.dll
+D:\OOP\Encapsulation\obj\Debug\net5.0\Encapsulation.pdb
+D:\OOP\Encapsulation\obj\Debug\net5.0\Encapsulation.genruntimeconfig.cache

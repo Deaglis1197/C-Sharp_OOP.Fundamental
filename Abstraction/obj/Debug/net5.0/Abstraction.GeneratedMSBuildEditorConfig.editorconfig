@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.PublishSingleFile = 
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
-build_property.RootNamespace = Inheritance
-build_property.ProjectDir = d:\Dersler\C-Sharp_OOP.Fundamental\Inheritance\
+build_property.RootNamespace = Abstraction
+build_property.ProjectDir = d:\Dersler\C-Sharp_OOP.Fundamental\Abstraction\
