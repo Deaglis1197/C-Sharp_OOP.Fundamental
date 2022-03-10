@@ -1,0 +1,16 @@
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\bin\Debug\net5.0\Polymorphism.exe
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\bin\Debug\net5.0\Polymorphism.deps.json
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.json
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\bin\Debug\net5.0\Polymorphism.runtimeconfig.dev.json
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\bin\Debug\net5.0\Polymorphism.dll
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\bin\Debug\net5.0\ref\Polymorphism.dll
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\bin\Debug\net5.0\Polymorphism.pdb
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.AssemblyReference.cache
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\obj\Debug\net5.0\Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfoInputs.cache
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\obj\Debug\net5.0\Polymorphism.AssemblyInfo.cs
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\obj\Debug\net5.0\Polymorphism.csproj.CoreCompileInputs.cache
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\obj\Debug\net5.0\Polymorphism.dll
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\obj\Debug\net5.0\ref\Polymorphism.dll
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\obj\Debug\net5.0\Polymorphism.pdb
+D:\Dersler\C-Sharp_OOP.Fundamental\Polymorphism\obj\Debug\net5.0\Polymorphism.genruntimeconfig.cache
